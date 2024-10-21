@@ -1,0 +1,22 @@
+*{
+    text-decoration: underline;
+}
+
+h1{
+    .azer{
+        color: blue;
+    }
+    
+    .ba{
+        color: red;
+    }
+    
+    .flag{
+        color: green;
+    }
+}
+
+img,iframe{
+    width: 50%;
+    height: 50%;
+}
